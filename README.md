@@ -4,4 +4,5 @@ I always hated flappy bird game so i made a cancer mode of it and don't try to e
 
 # Preview 
 
-<a src="https://giphy.com/gifs/ihAkIBmUcVk2MMsYuh/html5" >
+
+![Alt Text](https://media.giphy.com/media/ihAkIBmUcVk2MMsYuh/giphy.gif)
